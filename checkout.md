@@ -1,6 +1,6 @@
 [к содержанию](readme.md)
 
-![](/checkout/Git-Checkout.jpg)
+![](/checkout/i.webp)
 
 ## git checkout
 
